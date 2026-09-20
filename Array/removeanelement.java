@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class removeanelement {
 
     public static int removeElement(int[] nums, int val) {
         int k = 0;
